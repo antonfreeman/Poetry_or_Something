@@ -3,7 +3,7 @@ A repository for our CS 105 group
 
 # Group Members
 * Anton Freeman
-* Danielle Lockhart
+* Danielle Lockhart (dfl48@nau.edu)
 * 
 
 # Helpful links 
