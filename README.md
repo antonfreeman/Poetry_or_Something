@@ -2,7 +2,7 @@
 A repository for our CS 105 group
 
 # Group Members
-* Anton Freeman
+* Anton Freeman (asf222@nau.edu)
 * Danielle Lockhart (dfl48@nau.edu)
 * 
 
