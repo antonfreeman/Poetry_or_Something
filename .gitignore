@@ -1,0 +1,10 @@
+# Block all other files
+*
+
+# Except markdown and text files
+!*/
+!*.md
+!*.txt
+
+# and our gitingnore
+!.gitignore
