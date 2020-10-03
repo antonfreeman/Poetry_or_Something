@@ -4,7 +4,7 @@ A repository for our CS 105 group
 # Group Members
 * Anton Freeman (asf222@nau.edu)
 * Danielle Lockhart (dfl48@nau.edu)
-* 
+* Daniel Perez A.  (dap382@nau.edu)
 
 # Helpful links 
 * https://guides.github.com/features/mastering-markdown/ 
