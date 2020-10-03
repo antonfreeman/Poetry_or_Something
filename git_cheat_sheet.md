@@ -11,3 +11,23 @@ Command: | Description
 ------------ | -------------
 git init <DIRECTORY> | Initialize new git repository in DIRECTORY
 git clone <REPOSITORY> | Clone an existing repository to the current directory
+
+
+# Working with a Local Repository
+Command: | Description
+------------ | -------------
+git add <DIRECTORY> | Adds a directory to the staging area
+git add <FILE> | Adds a file to the staging area
+git commit -m "message" | Adds all files staged to the repository record
+git commit <FILE> -m "message" | Adds only FILE to the repository record
+git status | Shows all tracked and untracked files
+
+
+# Working with Branches
+Command: | Description
+------------ | -------------
+git branch | Lists all branches
+git branch <NAME> | Creates a new branch called NAME
+git checkout <NAME> | Switch head to any branch called NAME
+git checkout -b <NAME> | Creates a new branch called NAME and switches head to NAME
+git merge <NAME> | Merge NAME with the current branch (Might have conflicts)
