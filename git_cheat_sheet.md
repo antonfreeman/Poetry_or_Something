@@ -31,3 +31,18 @@ git branch <NAME> | Creates a new branch called NAME
 git checkout <NAME> | Switch head to any branch called NAME
 git checkout -b <NAME> | Creates a new branch called NAME and switches head to NAME
 git merge <NAME> | Merge NAME with the current branch (Might have conflicts)
+
+# Working with a Remote Repository
+Command: | Description
+------------ | -------------
+git pull <REMOTE> | Get a copy of all changes from remote repository
+git pull <REMOTE> <BRANCH> | Get a copy of all changes from a branch in the remote repository
+git push <REMOTE> <BRANCH> | Copy all local changes to branch in a remote repository
+
+# Other Useful Commands
+Command: | Description
+------------ | -------------
+git log | Shows all commit history
+git diff | Show differences between current files and last commit
+git revert <COMMIT> | Makes a new commit reversing changes in COMMIT
+
