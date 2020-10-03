@@ -1,26 +1,13 @@
-# An Introduction/Quick refrence guide for git
+# An Introduction/Quick reference guide for git
 
-# Setup GIT
+# Setup git
 Command: | Description
 ------------ | -------------
-Empty | Empty
+git config --global user.name <name> | Sets the name to be associated with your commits
+git config --global user.email <email> | Sets the email  to be associated with your commits
 
 # Create a New Repository
 Command: | Description
 ------------ | -------------
-Empty | Empty
-
-# Working with Branches
-Command: | Description
------------- | -------------
-Empty | Empty
-
-# Working with a Remote Repository
-Command: | Description
------------- | -------------
-Empty | Empty
-
-# Other Useful Commands
-Command: | Description
------------- | -------------
-Empty | Empty
+git init <DIRECTORY> | Initialize new git repository in DIRECTORY
+git clone <REPOSITORY> | Clone an existing repository to the current directory
